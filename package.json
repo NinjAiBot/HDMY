@@ -1,0 +1,22 @@
+{
+  "name": "hdmy",
+  "version": "1.0.0",
+  "description": "A simple streaming server that replaces the need to run a HDMI cable. Handy for when you're stuck in a hotel with a smart TV and no HDMI cable to stream your movies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinjAiBot/HDMY.git"
+  },
+  "keywords": [
+    "Stream"
+  ],
+  "author": "Shonin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NinjAiBot/HDMY/issues"
+  },
+  "homepage": "https://github.com/NinjAiBot/HDMY#readme"
+}
